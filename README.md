@@ -6,7 +6,7 @@
 
 ### This project is a simple Python-based log analyzer that parses Windows registry activity logs and detects registry key creation events.
 
-The script scans a log file (`log.txt`) and:
+The script scans a log file and:
 
  - Identifies registry keys being accessed
  - Tracks "Creating or opening the key" events
