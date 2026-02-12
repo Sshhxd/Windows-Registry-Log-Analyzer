@@ -67,12 +67,13 @@ Longer than 95 characters : 111
 ```
 
 ## 🚀 How to Run
+
+1. Make sure you add the path to your log file here: `file_path = r""`
+
+2. Install python or open the control panel and type:
 ```
 python Log_Analyzer_Tool.py
 ```
-Make sure `log.txt` is in the same directory as the python script.
-
-#### (Optional: Change the file name and file extension inside the python script)
 
 ---
 
